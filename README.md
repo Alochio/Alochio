@@ -3,7 +3,6 @@
 -Graduating in Computer Engineering at UFOP.<br>
 -I am focused on improving my skills.<br>
 -I am currently learning about Java, JavaScript, HTML and CSS.<br>
--I'm in the process of a trainee at Visão Tecnologia e Sistemas Jr.<br>
 
 ### Connect with me:
 
