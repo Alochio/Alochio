@@ -6,10 +6,7 @@
 
 ### Connect with me:
 
-
-<a href=""><img align="left" alt="Vinicius | Linkedin" width="30px" src="[https://image.flaticon.com/icons/png/512/49/49656.png](https://w7.pngwing.com/pngs/1012/692/png-transparent-computer-icons-linkedin-social-media-social-media-text-rectangle-logo.png)" class=""></a>
-
-<a href="https://www.linkedin.com/in/vinicius-alochio/"><img align="left" alt="Vinicius | Instagram" width="30px" src="https://camo.githubusercontent.com/c80f9763ed06d4ab9fbcc1a74b8b74cd95e4c7f82d3f1f70233994f236a0faeb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" class=""></a>
+<a href="https://www.linkedin.com/in/vinicius-alochio/"><img align="left" alt="Vinicius | Instagram" width="30px" src="https://w7.pngwing.com/pngs/902/874/png-transparent-computer-icons-linkedin-black-icon-miscellaneous-angle-text-thumbnail.png" class=""></a>
 
 <a href="https://www.instagram.com/vinicius.alochio/"><img align="left" alt="Vinicius | Instagram" width="30px" src="https://camo.githubusercontent.com/c80f9763ed06d4ab9fbcc1a74b8b74cd95e4c7f82d3f1f70233994f236a0faeb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" class=""></a>
 
