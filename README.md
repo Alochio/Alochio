@@ -1,8 +1,8 @@
 ### Hi, I'm Vinicius :wave:
 
 -Graduating in Computer Engineering at UFOP.<br>
--I am focused on improving my skills.<br>
--I am currently learning about Java, JavaScript, HTML and CSS.<br>
+-Development intern at Usiminas, where I fix problems and improve internal systems.<br>
+-Below are my social networks, connect with me to get to know me better!<br>
 
 ### Connect with me:
 
