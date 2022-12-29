@@ -3,7 +3,7 @@
   ### Hi, I'm Vinicius :wave:
   
   -Graduating in Computer Engineering at UFOP.<br>
-  -Development intern at Usiminas, where I fix problems and improve internal systems.<br>
+  -Development intern at Vale, where I fix problems and improve internal systems.<br>
   -Below are my social networks, connect with me to get to know me better!<br>
 
   ### Connect with me:
