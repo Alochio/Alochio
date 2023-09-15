@@ -1,20 +1,17 @@
 ## Hi, I'm Vinícius :wave:
 
 ```  
-- Graduating in Computer Engineering at UFOP.<br>
-- Development intern at Vale, where I fix problems and improve internal systems.<br>
-- Below are my social networks, connect with me to get to know me better!<br>
+$ Graduating in Computer Engineering at UFOP.
+$ Development intern at Vale, where I fix problems and improve internal systems.
+$ Below are my social networks, connect with me to get to know me better!
 ```
 
 ## Connect with me:
-
 <a href="https://www.linkedin.com/in/vinicius-alochio/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-
 ## Main Technologies:
-
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">
   <img align="center" alt="JAVA" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg">
