@@ -11,6 +11,4 @@
   ##
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alochio&layout=compact&langs_count=10&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-  ![snake gif](https://github.com/Alochio/Alochio/blob/output/github-contribution-grid-snake.svg)
- 
  </div>
