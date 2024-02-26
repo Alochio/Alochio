@@ -2,7 +2,6 @@
 
 ```  
 $ Graduating in Computer Engineering at UFOP.
-$ Development intern at Vale, where I fix problems and improve internal systems.
 $ Below are my social networks, connect with me to get to know me better!
 ```
 
